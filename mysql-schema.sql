@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS ems_db;
+
+USE ems_db;
