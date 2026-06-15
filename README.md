@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management System REST API
 
 A fresher-friendly Spring Boot backend project that demonstrates REST API development, layered architecture, Spring Data JPA, Hibernate, MySQL, Bean Validation, exception handling, Swagger/OpenAPI and Postman testing.
@@ -185,3 +186,7 @@ Set the `employeeId` collection variable after creating an employee if the gener
 - Centralized exception handling using `@RestControllerAdvice`
 - Swagger documentation
 - MySQL table auto-creation with JPA/Hibernate
+=======
+# Employee-Management-System-
+Employee Management System REST API built with Spring Boot, JPA, Hibernate, and MySQL.
+>>>>>>> c2ea7b1332b3916f5c00d75a560a7f6412d834c2
